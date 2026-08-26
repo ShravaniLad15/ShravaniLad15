@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 Currently working on MERN stack projects, focusing on clean APIs and responsive UIs.<br>🤖 Learning AI/ML with hands-on experience in Python and real-world problem solving.<br>✨ Open to learning, collaboration, and new challenges.
 
 
